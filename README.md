@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to step up visualisations
 - 💞️ I’m looking to collaborate on healthcare insights data
 - 📫 How to reach me - matthew.j.webb@hotmail.com
-- ⚡ Fun fact: I'm related to Keanu Reeves
 
 <!---
 Matt-W-Code/Matt-W-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
